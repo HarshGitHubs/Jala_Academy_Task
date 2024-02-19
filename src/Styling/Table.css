@@ -1,0 +1,9 @@
+.header{background-color:#04AA6D; color:white; height:40}
+
+td{
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
+th{
+    border-left: 1px solid black;
+}
